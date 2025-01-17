@@ -1,14 +1,14 @@
 <h1 align="left">Hola, Soy El Seba 🤓</h1>
 
-Desarrollador de software cursando último año de Ingeniería en Informática. Siempre involucrado en proyectos para aprender y resolver problemas que involucran a comunidades en las que soy parte, además de aportar al sector empresarial por medio de colaboraciones con pares y autoridades de mi entorno academico.
+Desarrollador de software, titulado de ingeniería en informática. Siempre involucrado en proyectos para aprender y resolver problemas que involucran a comunidades en las que soy parte, además de aportar al sector empresarial por medio de colaboraciones con pares y autoridades de mi entorno academico.
 
-Me gusta siempre ir mejorando mis habilidades blandas formando parte de diversas actividades extracurriculares que me permiten conectar con las personas, tales cómo: Delegado estudiantil, líder de club estudiantil y ayudante clínico académico en INACAP.
+Me gusta siempre ir mejorando mis habilidades blandas. En mi etapa de estudiante formé parte de diversas actividades extracurriculares que me permiten conectar con las personas, tales cómo: Delegado estudiantil, líder de club estudiantil y ayudante clínico académico en INACAP.
 
 <h3 align="left">Soy desarrollador, esposo y padre gatuno 🐱</h3>
 
-- 🔭 Estoy trabajando en **Open S4M**
+- 🔭 Estoy trabajando en **Open S4M, Oppici SIC y GoodPeople**
 
-- 🌱 Actualmente estoy aprendiendo **Svelte**
+- 🌱 Actualmente estoy aprendiendo **NestJS**
 
 - 💬 Preguntame lo que sea de **informática**
 
