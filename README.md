@@ -6,7 +6,7 @@ Me gusta siempre ir mejorando mis habilidades blandas. En mi etapa de estudiante
 
 <h3 align="left">Soy desarrollador, esposo y padre gatuno 🐱</h3>
 
-- 🔭 Estoy trabajando en **Open S4M, Oppici SIC y GoodPeople**
+- 🔭 Estoy trabajando en **Redciclach e INACAP**
 
 - 🌱 Actualmente estoy aprendiendo **NestJS**
 
