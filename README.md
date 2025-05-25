@@ -8,7 +8,7 @@ Me gusta siempre ir mejorando mis habilidades blandas. En mi etapa de estudiante
 
 - 🔭 Estoy trabajando en **Redciclach e INACAP**
 
-- 🌱 Actualmente estoy aprendiendo **NestJS**
+- 🌱 Actualmente estoy aprendiendo **Angular**
 
 - 💬 Preguntame lo que sea de **informática**
 
